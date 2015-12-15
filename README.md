@@ -8,7 +8,7 @@ The lab of react common components for my development.
 <img src="example/SelectBox-2.png" alt="">  
 
 ## operationTips
-<img src="example/operationTips.png" alt="">  
+<img src="example/OperationTips.png" alt="">  
 
 ## dialog
 <img src="example/Dialog.png" alt="">  
@@ -17,4 +17,4 @@ The lab of react common components for my development.
 <img src="example/Modal.png" alt="">
 
 ## codeEditor
-<img src="example/codeEditor.png" alt="">  
+<img src="example/CodeEditor.png" alt="">  
